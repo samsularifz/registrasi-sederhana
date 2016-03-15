@@ -2,7 +2,7 @@
 Halo Guys! Di sini saya sedikit berbagi mengenai script sederhana (register, login).
 Script ini dikhususkan untuk para newbie.
 
-Bagi para mastah yang mampir ke git ini kalau bisa tolong kasih push request ya, biar bisa lebih sempurna :D
+Bagi para mastah yang mampir ke git ini kalau bisa tolong kasih pull request ya, biar bisa lebih sempurna :D
 
 #Tutorial Pemasangan
 1. Buat database dengan nama: mydb
